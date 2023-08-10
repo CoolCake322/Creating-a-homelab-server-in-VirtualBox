@@ -19,4 +19,4 @@ VirtualBox: https://www.virtualbox.org/
 
 ## Reference
 
-video credits: UsersGeek - https://www.youtube.com/watch?v=y-pg_wO8zOs&t=424s
+Video credits: UsersGeek - https://www.youtube.com/watch?v=y-pg_wO8zOs&t=424s
