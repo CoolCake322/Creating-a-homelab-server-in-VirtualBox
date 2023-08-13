@@ -21,8 +21,11 @@ A TrueNAS dataset is a file system you create within a data storage pool. Datase
 datasets), and have individual permissions or flags. You can encrypt datasets using either the pool encryption created
 with the pool or with a separate dataset-level encryption configuration.
 
-    
 
+Next 
+    add users:
+        add family group with mom and dad
+        add guest group for guests
 
 ## Software Used
     
