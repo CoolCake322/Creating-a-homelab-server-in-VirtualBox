@@ -1,9 +1,17 @@
 
 ## Adding another user and setting permissions
-The goal for this ection is to create 2 users. The first user named userP is going to store photos and videos with only access to the dataset named Parents. While the second user named user named userAdmin with access to a dataset named admin along with access to the dataset named Parents.
+The goal for this section is to create 2 users. The first user named homeuser is going to store photos and videos with only access to the dataset named homeuser and guests. While the second user named user named guests with access to a dataset named guests only. A third dataset is only going to give access to the admin which has access to their own data along with access to homeuser and guests data.
+
+To show access permissions I'm going to sign in as guest1 to show I only have access to guest data only.
+
+
 
 Video: WORK IN PROGRESS
 
+## Troubleshooting notes
+
+- when setting permissions make sure to specify user and group in acl permissions
+- root user is under the wheel groups
 
 
 ## Software Used
