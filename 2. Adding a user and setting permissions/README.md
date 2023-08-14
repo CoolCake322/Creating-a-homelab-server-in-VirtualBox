@@ -17,4 +17,4 @@ VirtualBox: https://www.virtualbox.org/
 
 ## Reference
 
-Video credits: UsersGeek - [https://www.youtube.com/watch?v=y-pg_wO8zOs&t=424s](https://www.youtube.com/watch?v=fZa-mgBkE1I)https://www.youtube.com/watch?v=fZa-mgBkE1I
+Video credits: Sauber-Lab UK - <iframe width="1000" height="571" src="https://www.youtube.com/embed/fZa-mgBkE1I" title="Let&#39;s configure user and group permissions to control access on your TrueNAS Scale - Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
