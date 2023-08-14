@@ -1,7 +1,6 @@
 
 ## Adding another user and setting permissions
-The goal for this ection is to create a user to store photos and videos and create a dataset for that user to store files, so it doesn't conflict with the files for the root user. This is going to change the setup I did in the last section but the end result will be more in line to my ideal setup for the server.
-
+The goal for this ection is to create 2 users. The first user named userP is going to store photos and videos with only access to the dataset named Parents. While the second user named user named userAdmin with access to a dataset named admin along with access to the dataset named Parents.
 
 Video: WORK IN PROGRESS
 
