@@ -6,7 +6,7 @@ To show access permissions I'm going to sign in as guest1 to show I only have ac
 
 
 
-Video: [WORK IN PROGRESS](https://youtu.be/Bu_vCavNwdw)
+Video: https://youtu.be/Bu_vCavNwdw
 
 ## Troubleshooting notes
 
